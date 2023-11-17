@@ -1,16 +1,9 @@
-/* Agrega estilos específicos aquí */
 body {
-    background-color: #f8f9fa;
+    font-family: 'Roboto', sans-serif;
 }
 
-.navbar {
-    border-bottom: 1px solid #ddd;
+.bg-gold {
+    background-color: #ffd700;
 }
 
-#slider {
-    /* Agrega estilos para el slider aquí */
-}
-
-#album {
-    /* Agrega estilos para el álbum de imágenes aquí */
-}
+/* Agrega estilos adicionales según sea necesario */
