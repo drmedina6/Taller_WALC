@@ -1,0 +1,16 @@
+/* Agrega estilos específicos aquí */
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    border-bottom: 1px solid #ddd;
+}
+
+#slider {
+    /* Agrega estilos para el slider aquí */
+}
+
+#album {
+    /* Agrega estilos para el álbum de imágenes aquí */
+}
